@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root>
+
+	<!-- Client Info-->
+	<clientInfo>
+					<clientName>Dr. Mark Perez, DDS - Cosmetic, Implant & General Dentistry</clientName>
+					<address1>6318 Fairmount Ave</address1>
+					<address2>El Cerrito, CA 94530</address2>
+					<phone>510-526-9212</phone>
+					<fax>510-524-4502</fax>
+					<email>info@markperezdds.com</email>
+					<officeHours>???</officeHours>
+					<copyright><![CDATA[Copyright 2009, Dr. Mark Perez, DDS, all rights reserved]]></copyright>
+	</clientInfo>
+	
+	
+	<styling>
+		<!-- General Colors-->
+		<xmlColor>true</xmlColor>
+		
+		<!-- Footer Colors -->
+		<footer 	FooterColor="true" 
+					TextColor="0xffffff" 
+					Gradient1="0x333333" 
+					Gradient2="0x333333" 
+					Gradient1Alpha="100" 
+					Gradient2Alpha="100" 
+					TopBarColor="0x333333" 
+					TopBarAlpha="50" 
+					BtnColor1="0xffffff" 
+					BtnColor2="0xffcc99" 
+					BtnAlpha="100" 
+					BtnLabelColor="0xffffff" 
+					rColor1="0xff9900" 
+					rColor2="0xffffff" 
+					rAlpha="100" />
+		<phone		fontColor="0x000000"
+					shadowEnabled = "true"
+					shadowColor="0x000000"
+					shadowAlpha="30"
+					shadowDistance="2"
+					shadowBlur="2"
+					shadowAngle="65" />
+		<menu 		main_vert_spacing="38" 
+					sub_vert_spacing="19" 
+					submenu_horz_position="720" 
+					submenu_vert_position="-50" />
+	</styling>
+	
+	
+	
+	
+	<!--Footer & actionBar Links-->
+	<!--If calling a javascript function, assign *_target to "none"-->
+	<links>
+		<contact 	title="Contact Us" 
+					enabled="true" 
+					target="none">
+		<![CDATA[javascript: myLightWindow.activateWindow({href: 'https://roadside.wufoo.com/forms/z7p2k3/', title: '', type: 'external', width: '700', loadingAnimation: 'false'});]]></contact>
+		
+		
+		<schedule 	title="Schedule an Appointment" 
+					enabled="true" 
+					target="none">
+					<![CDATA[javascript: myLightWindow.activateWindow({href: 'https://roadside.wufoo.com/forms/z7p2k9/', title: 'Schedule an Appointment', type: 'external', width: '700', loadingAnimation: 'false'});]]></schedule>
+		
+		
+		<bookmark 	title="Bookmark Us" 
+					enabled="true" 
+					target="none">
+					<![CDATA[javascript: myLightWindow.activateWindow({href: 'http://www.addthis.com/bookmark.php', title: 'Bookmark and Share', type: 'external', width: '640', height: '540',  loadingAnimation: 'false'});]]></bookmark>
+		
+		
+		<subscribe 	title="Subscribe" 
+					enabled="true" 
+					target="none">
+					<![CDATA[javascript: myLightWindow.activateWindow({href: 'rss.rss', title: 'RSS Feed', type: 'external', width: '640',  loadingAnimation: 'false'});]]></subscribe>
+		
+		
+		<roadside 	title="Site by Roadside Multimedia" 
+					enabled="true" 
+					target="_top">
+					<![CDATA[http://roadsidemultimedia.com]]></roadside>
+										
+					
+		<map		title="Map & Directions"
+					enabled="true"
+					target="_self">
+					<![CDATA[http://maps.google.com/maps?f=d&source=s_d&saddr=&daddr=6318+Fairmount+Ave,+El+Cerrito,+CA+94530&hl=en&geocode=&mra=ls&sll=37.900425,-122.301563&sspn=0.007906,0.015235&g=6318+Fairmount+Ave,+El+Cerrito,+CA+94530&ie=UTF8&ll=37.900425,-122.301563&spn=0.007906,0.015235&z=17]]></map>
+					
+					
+		<blog		title="Blog"
+					enabled="true"
+					target="_blank">
+					<![CDATA[blog.html]]></blog>
+	</links>
+	
+	
+	
+	
+	
+	
+	<!--  Music Settings -->
+	<music enabled="false" >
+		<track src="assets/music/sound038.mp3" />
+	</music>
+</root>
