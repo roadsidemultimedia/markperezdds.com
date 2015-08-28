@@ -1,0 +1,23 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/porcelain-crowns-1.jpg">Before</before>
+		<after src="assets/images/services/porcelain-crowns-2.jpg">After</after>
+	</image>
+	
+	<heading>Porcelain Crowns</heading>
+	<text><![CDATA[
+		
+	<p>All porcelain crowns are a beautiful solution to an ugly problem. Recreating a healthy, natural appearance for teeth that are damaged can be done quickly and comfortable by means of all-porcelain crowns. Preserving your natural teeth is always the goal of conservative and skillful cosmetic dentist, Dr. Perez. Porcelain crowns can restore teeth that are: 
+</p>
+<ul><li>cracked 
+</li><li>broken 
+</li><li>discolored 
+</li><li>weakened by large fillings 
+</li><li>missing and being replaced with implants 
+</li></ul><p>All-porcelain crowns are renowned for their strength, beauty, and ability to mimic the look of natural teeth. A beautiful porcelain crown is placed to fit snugly over the tooth, instantly restoring it to it's youthful beauty and integrity. Because of their superlative beauty, meticulous dentist Dr. Perez uses all-porcelain crowns, leaving no ugly tell-tale gray line along the gum line like those left by porcelain/metal crowns. 
+</p>
+<p>The health and beauty of your teeth can be restored and protected in just a couple of easy, comfortable visits with Dr. Perez. <a href="javascript: myLightWindow.activateWindow({href: 'dental-solutions/porcelain-crowns.html?template=lightwindow', title: '', type: 'external', width: '700', height: '900',  loadingAnimation: 'false'});" class="readmore"> READ MORE &#62;</a></p>
+
+		<br><br><br>]]></text>
+</root>

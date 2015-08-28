@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+
+	<item title="Welcome" type="swf" path="xml/welcome/welcome.xml"/>
+	<item title="About Us" type="swf" path="xml/team/doctor.xml" submenu_y="0" next="true" >
+		<item title="Meet the Doctor" type="swf" path="xml/team/doctor.xml"/>
+		<item title="Meet Beth" type="swf" path="xml/team/team.xml"/>
+	</item>
+	<item title="Patient Testimonials" type="swf" path="xml/testimonials/testimonials.xml"/>
+	<item title="Smile Gallery" type="swf" path="xml/gallery/gallery.xml"/>	
+	
+	<item title="Dental Solutions" type="swf" path="xml/services/intro.xml" submenu_y="0" next="true" >
+
+		<item title="Porcelain Veneers" type="swf" path="xml/services/porcelain-veneers.xml"/>
+		<item title="Porcelain Crowns" type="swf" path="xml/services/porcelain-crowns.xml"/>
+		<item title="Smile Design" type="swf" path="xml/services/smile-design.xml"/>
+		<item title="Teeth Whitening" type="swf" path="xml/services/teeth-whitening.xml"/>
+		<item title="Bonding" type="swf" path="xml/services/bonding.xml"/>
+		<item title="Implants" type="swf" path="xml/services/implants.xml"/>
+		<item title="Porcelain Fillings & Onlays" type="swf" path="xml/services/fillings.xml"/>
+		<item title="Bridges" type="swf" path="xml/services/bridges.xml"/>
+		<item title="Instant Orthodontics" type="swf" path="xml/services/ortho.xml"/>
+		<item title="Full Mouth Restoration" type="swf" path="xml/services/full-mouth-restoration.xml"/>
+		<item title="Gum Contouring" type="swf" path="xml/services/gum-contouring.xml"/>
+		<item title="Oral Face Lift" type="swf" path="xml/services/oral-face-lift.xml"/>
+		<item title="Healthy Bites" type="swf" path="xml/services/healthy-bites.xml"/>
+		<item title="Hygiene Care" type="swf" path="xml/services/hygiene-care.xml"/>	
+	</item>
+	<item title="For Your Comfort" type="swf" path="xml/comfort/comfort.xml"/>
+	<item title="Contact Us" type="swf" path="xml/contact/contact.xml"/>
+</menu>

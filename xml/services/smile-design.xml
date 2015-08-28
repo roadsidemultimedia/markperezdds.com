@@ -1,0 +1,29 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/smile-design-1.jpg">Before</before>
+		<after src="assets/images/services/smile-design-2.jpg">After</after>
+	</image>
+	
+	<heading>Smile Design</heading>
+	<text><![CDATA[
+		
+		<p>A custom-made smile, that's what Smile Design truly means to our dentist, Dr. Mark Perez. Smile flaws such as stains, crooked teeth, gaps between teeth, and chips or cracks will disappear as they are replaced with a beautiful smile... often in only 2 visits! 
+</p>
+<p>Your smile is yours. It's unique. What does the perfect smile for your age, gender, face and personality look like? Talk to Berkeley dentist, Dr. Perez and find the answer. Dr. Perez is an expert at designing the smile that'll give you all of the qualities you want - with a natural look that fits you. 
+</p>
+<p>Whether you want to change the look of all your front teeth or just a few, cosmetic dentist, Dr. Perez will design smile restorations that dramatically change how you feel about your appearance. 
+</p>
+<p>A custom-made smile, that's what Smile Design truly means to our dentist, Dr. Mark Perez. Smile flaws such as stains, crooked teeth, gaps between teeth, and chips or cracks will disappear as they are replaced with a beautiful smile... often in only 2 visits! 
+</p>
+<p>Your smile is yours. It's unique. What does the perfect smile for your age, gender, face and personality look like? Talk to Berkeley dentist, Dr. Perez and find the answer. Dr. Perez is an expert at designing the smile that'll give you all of the qualities you want - with a natural look that fits you. 
+</p>
+
+<p>Whether you want to change the look of all your front teeth or just a few, cosmetic dentist, Dr. Perez will design smile restorations that dramatically change how you feel about your appearance. 
+</p>
+<p>With his decades of teaching cosmetic dentistry to dentists all over the world, you can be assured your smile will be designed correctly.<a href="javascript: myLightWindow.activateWindow({href: 'dental-solutions/smile-design.html?template=lightwindow', title: '', type: 'external', width: '700', height: '900',  loadingAnimation: 'false'});" class="readmore"> READ MORE &#62;</a></p>
+
+		<br><br><br>
+
+		]]></text>
+</root>

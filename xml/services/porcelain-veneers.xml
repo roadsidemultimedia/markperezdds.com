@@ -1,0 +1,23 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/porcelain-veneers-1.jpg">Before</before>
+		<after src="assets/images/services/porcelain-veneers-2.jpg">After</after>
+	</image>
+	
+	<heading>Porcelain Veneers</heading>
+	<text><![CDATA[
+		
+		<p>Porcelain Veneers... Dr. Perez's passion and specialty! Not only has he mastered this art for over 25 years...he has taught this art at many world renowned dental institutions to dentist from all over the world. 
+	</p>
+	<p>Life changing! That's what many of our patients say about their new smile created using fabulous porcelain veneers. Do you find yourself smiling less or even trying to hide your smile? Holding back from going after that promotion or pursuing new personal relationships? Many of our patients used to, but now with the help of porcelain veneers, they find they can't stop smiling! 
+	</p>
+	<p>Expert cosmetic dentist, Dr. Perez is a master at creating a stunning smile with a natural, healthy color that enhances your appearance, virtually turning back the clock. These strong but translucently thin tooth restorations that are applied to the surface of your teeth are the perfect, long lasting solution for issues such as teeth that are crooked, crowded, worn or discolored. 
+	</p>
+	<p>It's amazing what a difference can be made to the way you look and feel in only 2 comfortable visits with Dr. Perez. We know you won't be able to stop smiling after your first visit. <a href="javascript: myLightWindow.activateWindow({href: 'dental-solutions/porcelain-veneers.html?template=lightwindow', title: '', type: 'external', width: '700', height: '900',  loadingAnimation: 'false'});" class="readmore"> READ MORE &#62;</a></p> 
+
+		<br><br><br>
+		
+		
+		]]></text>
+</root>

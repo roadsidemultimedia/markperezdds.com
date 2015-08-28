@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/porcelain-veneers-1.jpg">Before</before>
+		<after src="assets/images/services/porcelain-veneers-2.jpg">After</after>
+	</image>
+  
+  <heading>Gum Contouring</heading>
+  <text><![CDATA[
+	
+	<p>Gum contouring can make your smile look healthier and more attractive by framing and complementing your teeth. Much like a quality frame is to a painting. 
+</p>
+<p>Could this be the cosmetic improvement to your smile that you are looking for? Dr. Perez uses this dental solution to help teeth look longer, and take away what we may think of as a “gummy smile”. With this procedure, your true smile will be revealed as your teeth are no longer overshadowed by excessive gum.
+</p>
+<p>Some may have uneven gums that are not scalloped up and down properly. Berkeley dentist, Dr. Perez can quickly remedy this with minor gum sculpting and adjusting. Gum contouring may also play a role in enhancing your smile design and porcelain veneers.
+</p>
+<p>Dr. Perez and his dental team use state-of-the-art equipment to artistically realign or straighten crooked gums. In only a few minutes you can have a finely sculpted gumline! 
+</p>
+<p>The technology our dentist chooses to use is conservative and has very little discomfort afterward. Local anesthetic is all that's required.
+</p>
+
+<p>Why wait any longer?  Our highly skilled dentist can create a healthy and attractive gumline quickly and easily! <a href="javascript: myLightWindow.activateWindow({href: 'dental-solutions/gum-contouring.html?template=lightwindow', title: '', type: 'external', width: '700', height: '900',  loadingAnimation: 'false'});" class="readmore"> READ MORE &#62;</a></p>
+	
+  <br><br><br>]]></text>
+</root>

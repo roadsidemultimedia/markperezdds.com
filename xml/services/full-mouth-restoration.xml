@@ -1,0 +1,31 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/full-mouth-1.jpg">Before</before>
+		<after src="assets/images/services/full-mouth-2.jpg">After</after>
+	</image>
+	
+	<heading>Full Mouth Restoration</heading>
+	<text><![CDATA[
+		
+<p>It's never too late for a healthy smile! Many people have complex dental issues that need the care of a knowledgeable and skillful dentist to effectively repair them. Berkeley dentist, Dr. Mark Perez has been helping people for more than 25 years to, once again, have a healthy and beautiful smile!</p>
+
+<p>Creating a healthy foundation for your smile is very important. In addition to making you look and feel great, Dr. Perez utilizes expert cosmetic dentistry techniques to repair:</p>
+
+<ul>
+	<li>Missing or broken teeth</li>
+	<li>TMJ or bite instability issues </li>
+	<li>Overly rotated teeth</li>
+	<li>Periodontal disease</li>
+	<li>Stained teeth</li>
+	<li>Severely worn teeth</li>
+	<li>Loose teeth</li>
+</ul>
+
+		<p>As a cosmetic dentist, Dr. Perez has the experience and the compassion required to ensure that you get amazing results, while feeling comfortable. Call our team to learn more about the special care we offer with today's dental solutions, designed to make your visit to the dentist the best it can be.  <a href="javascript: myLightWindow.activateWindow({href: 'dental-solutions/full-mouth-rehabilitation.html?template=lightwindow', title: '', type: 'external', width: '700', height: '900',  loadingAnimation: 'false'});" class="readmore"> READ MORE &#62;</a></p>
+
+		<br><br><br><br>
+		
+		
+		]]></text>
+</root>

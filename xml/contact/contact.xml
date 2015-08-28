@@ -1,0 +1,6 @@
+<root>
+	<swf src="assets/flash/contact.swf"/>
+	<image src="assets/images/contact/contact.jpg">Contact Us</image>
+	
+	<heading>Contact Us</heading>
+</root>

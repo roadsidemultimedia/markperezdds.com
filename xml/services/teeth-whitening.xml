@@ -1,0 +1,22 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/teeth-whitening-1.jpg">Before</before>
+		<after src="assets/images/services/teeth-whitening-2.jpg">After</after>
+	</image>
+	
+	<heading>Teeth Whitening</heading>
+	<text><![CDATA[
+		
+		<p>Brilliant, dazzling, healthy... an unforgettable smile. Making your smile unforgettable is easy, quick and very affordable today. Professional whitening by expert dentist, Dr. Perez can effectively remove all the stains and yellowing caused by smoking or drinking tea, coffee, and wine; leaving you with a healthy, bright smile.</p> 
+
+	<p>The many whitening options offered by our office make it convenient for anyone to bring back the dazzle to their smile. Whether you prefer to whiten for a shorter period during the day or chose a longer treatment to use at night, you will be thrilled with the difference 1 week will make. Fresher, brighter and whiter!</p>
+
+	<p>Customizing your whitening kit is the key to success. Experienced, cosmetic dentist, Dr. Perez can create the perfect solution for you, giving you the kind of results that come only from professionally supervised teeth bleaching. Are you looking for an easy way to make a dramatic change to the way you look and feel? Ask Dr. Perez about creating a customized whitening kit for you today. <a href="javascript: myLightWindow.activateWindow({href: 'dental-solutions/teeth-whitening.html?template=lightwindow', title: '', type: 'external', width: '700', height: '900',  loadingAnimation: 'false'});" class="readmore"> READ MORE &#62;</a></p>
+	</p>
+
+			<br><br><br>
+		
+		
+		]]></text>
+</root>

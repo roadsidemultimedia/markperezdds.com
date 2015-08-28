@@ -1,0 +1,16 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/bonding-1.jpg">Before</before>
+		<after src="assets/images/services/bonding-2.jpg">After</after>
+	</image>
+	
+	<heading>Bonding</heading>
+	<text><![CDATA[<p>Making the imperfect, perfect! Versatile, easy, and very quick; cosmetic bonding can completely change the look of teeth that are stained, chipped, cracked, have gaps or are crooked. Whether you have 1 tooth or multiple teeth that need a makeover, dental bonding is the most cost effective way to create that stunning smile you've always wanted!
+</p>
+<p>Highly moldable composite resin in the hands of a very skillful and experienced cosmetic dentist like Dr. Perez can be artistically used to create a beautiful, natural looking smile. The bonded restorations will blend seamlessly with the surrounding natural teeth, perfectly mimicking their color and luster.
+</p>
+<p>If you've put off your smile makeover because of cost concerns, or if you have an upcoming special event that you want to look fabulous for, dental bonding is the perfect solution. More Than a Dentist, a Craftsman.<br><a href="javascript: myLightWindow.activateWindow({href: 'dental-solutions/bonding.html?template=lightwindow', title: '', type: 'external', width: '700', height: '900',  loadingAnimation: 'false'});" class="readmore"> READ MORE &#62;</a></p>
+	
+	<br><br><br>]]></text>
+</root>
