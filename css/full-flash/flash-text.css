@@ -1,0 +1,50 @@
+h1 {
+	color: 666666;
+	font-size: 15px;
+	font-weight: bold;
+	}
+
+h2 {
+	color: #666666;
+	font-size: 14px;
+	font-weight: bold;
+	}
+	
+h3 {
+	color: #666666;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+h4 {
+	color: #666666;
+	font-size: 14px;
+	font-weight: bold;
+}
+	
+p { 
+	color: #666666; 
+	font-size: 14px; 
+	}
+
+ul{ 
+	color: #666666; 
+	font-size: 14px; 
+	}	
+	
+a { 
+	color: #ff9900;
+	font-size: 14px; 
+	text-decoration: underline;
+	}
+	
+a:hover {
+	color: #ff9900;
+	}
+
+.readmore {
+	color: #ff9900;
+	font-size:10px;
+	font-weight: bold;
+	text-decoration: underline;
+	}
